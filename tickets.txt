@@ -1,0 +1,90 @@
+Coach:Second Tier AC
+Price:1400.0
+Tickets:2
+Source Station:Mumbai
+Destionation Station:Delhi
+Total Amount:2800.0
+Coach:First Tier AC
+Price:1500.0
+Tickets:2
+Source Station:Mumbai
+Destionation Station:Delhi
+Total Amount:3000.0
+Coach:Second Tier AC
+Price:1300.0
+Tickets:3
+Source Station:Punjab
+Destionation Station:Gujarat
+Total Amount:3900.0
+Coach:Second Tier AC
+Price:1100.0
+Tickets:0
+Source Station:Delhi
+Destionation Station:Mumabi
+Total Amount:0.0
+Coach:Second Tier AC
+Price:1000.0
+Tickets:2
+Source Station:Gujarat
+Destionation Station:Punjab
+Total Amount:2000.0
+Coach:Second Tier AC
+Price:1400.0
+Tickets:2
+Source Station:Gujarat
+Destionation Station:Delhi
+Total Amount:2800.0
+Coach:Third Tie AC
+Price:1200.0
+Tickets:3
+Source Station:Mumbai
+Destionation Station:Delhi
+Total Amount:3600.0
+Coach:Sleeper Class
+Price:1800.0
+Tickets:3
+Source Station:Delhi
+Destionation Station:Gujarat
+Total Amount:5400.0
+Coach:Sleeper Class
+Price:1800.0
+Tickets:0
+Source Station:Punjab
+Destionation Station:Delhi
+Total Amount:0.0
+Coach:Second Tier AC
+Price:1400.0
+Tickets:2
+Source Station:Mumbai
+Destionation Station:Delhi
+Total Amount:2800.0
+Coach:Sleeper Class
+Price:1800.0
+Tickets:3
+Source Station:Gujarat
+Destionation Station:Delhi
+Total Amount:5400.0
+Coach:Third Tie AC
+Price:1500.0
+Tickets:3
+Source Station:Punjab
+Destionation Station:Mumbai
+Total Amount:4500.0
+Coach:Second Tier AC
+Price:1400.0
+Tickets:2
+Source Station:Gujarat
+Destionation Station:Delhi
+Total Amount:2800.0
+Coach:Third Tie AC
+Price:1500.0
+Tickets:3
+Source Station:Mumbai
+Destionation Station:Punjab
+Total Amount:4500.0
+Coach:Third Tie AC
+Price:1500.0
+Tickets:3
+Source Station:Mumbai
+Destionation Station:Punjab
+Total Amount:4500.0
